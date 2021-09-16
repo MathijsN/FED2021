@@ -82,14 +82,22 @@ Explore Art
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
+Ik vind het lastig om zonder divs en classes te werken.
+<img src="images/Schermafbeelding 2021-09-15 om 22.06.03.jpg" width="375px" alt="breakdown van de hele pagina">
+
+
+Flexbox lukt me tot nu toe aardig goed.
+
+
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Mathijs      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+| Werken zonder 
+classes           | en dit             | en ik dit    | en dan ik dat    |
 | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| ...           | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
