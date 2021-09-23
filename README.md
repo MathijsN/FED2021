@@ -103,10 +103,7 @@ classes           | en dit             | en ik dit    | en dan ik dat    |
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- CSS herschrijven meer op classes en divs letten.
 
 </details>
 
