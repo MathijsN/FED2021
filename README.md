@@ -156,24 +156,25 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 Hier korte omschrijving (met indien nodig een afbeelding)
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Voice over functie apple:
+Deze functie is pure drama, het werkt niet en is lastig te gebruiken. Het is niet gelukt om voice over alleen de headings te laten lezen.
 
+Gele bril: geen problemen ondervonden, contrast is hoog.
 
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Combined Loss Diabetic Eye Disease: Geen problemen, beetje vervelend maar niet hinderend.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Bril met vlek in het midden: Site is te gebruiken maar vlek is wel irritand.
 
+Renier bevindingen, tekst is lastig te lezen met 3 brillen op. Ronde knopjes zijn niet te zien met 3 brillen.
 
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Eigen bevindingen, met 3 brillen is de tekst niet te lezen.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Oplossing hiervoor is grote tekst en duidelijk contrast.
 
+Met het spasme apparaat is de site te bedienen tenzij het op te hoge stand staat. Oplossing hiervoor is grote knoppen gebruiken.
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+De afleiding test is niet van toepassing omdat ik geen invoer velden heb. De focus state moet wel goed worden vormgegeven om duidelijk te maken waar je mee bezig was.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 </details>
 
