@@ -45,8 +45,8 @@ Homepagina
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Explore Art 
-<img src="images/Explore Art pagina" width="375px" alt="Explore Art 1">
-<img src="images/Explore Art pagina2" width="375px" alt="Explore Art 2">
+<img src="images/Explore Art pagina.png" width="375px" alt="Explore Art 1">
+<img src="images/Explore Art pagina2.png" width="375px" alt="Explore Art 2">
  
 </details>
 
@@ -92,18 +92,11 @@ Flexbox lukt me tot nu toe aardig goed.
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Mathijs      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| Werken zonder 
-classes           | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...           | ...                | ...          | ...              |
-
+Mathijs wilt het hebben over het werken zonder classes.
+Sterre, Ine en Arsenio willen checken of hun html en css semantisch is. Ze willen ook graag tips.
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- CSS herschrijven meer op classes en divs letten.
+Ik moet mijn CSS herschrijven en meer op de verschillende selectoren letten. Bij mijn HTML moet ik er op letten dat ik minder classes gebruik en divs alleen waar echt nodig.
 
 </details>
 
@@ -117,26 +110,18 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het ging redelijk goed. Ik was nog niet heel ver maar ik heb wel alle huiswerk opdrachten gedaan. Als ik eenmaal aan de code zit weet ik ook wel hoe het moet en gaat het best goed maar motivatie voor dit is 
+een beetje laag.
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+We wouden als groepje graag weten of onze structuur van de website goed is en we hadden een aantal vragen per persoon. 
+We gingen met de student assisstenten een paar problemen oplossen.
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+We kregen wat tips van de student assisstenten over extensies en ze lieten blijken dat we allemaal goed bezig waren.
 
 </details>
 
@@ -152,10 +137,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 Voice over functie apple:
 Deze functie is pure drama, het werkt niet en is lastig te gebruiken. Het is niet gelukt om voice over alleen de headings te laten lezen.
 
@@ -188,26 +170,18 @@ De afleiding test is niet van toepassing omdat ik geen invoer velden heb. De foc
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+De site was nog niet echt ver genog om veel feedback te krijgen. Ik heb wat van de huiswerk opdrachten in de website verwerkt.
+Als ik eenmaal begin met coden lukt het me wel maar doordat ik het niet heel leuk vind begin ik er niet zo snel aan.
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+We willen vooral weten of we ver genoeg zijn en hoe we onze website kunnen verbeteren.
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Ik kwam hierdoor tot de conclusie dat ik wel echt door moet werken wil ik het nog halen. 
 
 </details>
 
@@ -221,12 +195,13 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het coderen zelf ging wel goed maar ik merk dat mijn motivatie voor dit vak niet heel hoog was. Als ik eenmaal bezig was (en het lukte) dan was het best leuk.
+Ik heb wel mijn best gedaan om iets moois te maken.
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
-
+<img src="images/volledigesitep1.png" width="375px" alt="Screenshot pagina 1">
+<img src="images/volledigesitep2.png" width="375px" alt="Screenshot pagina 2">
 </details>
 
 
@@ -240,8 +215,18 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://unsplash.com/photos/-MCrF6hnojU
+2. https://unsplash.com/photos/woC7_1c_kZQ
+3. https://unsplash.com/photos/Wa9ilX9XYOI
+4. https://unsplash.com/photos/NWJOf03vXKQ
+5. https://unsplash.com/photos/GfQEdpIkkuw
+6. https://www.flaticon.com/premium-icon/stats_3202387?term=stats&page=1&position=7&page=1&position=7&related_id=3202387&origin=search
+7. https://www.flaticon.com/premium-icon/market-trends_2967338?term=market&page=1&position=2&page=1&position=2&related_id=2967338&origin=search
+8. https://www.flaticon.com/premium-icon/user_1144760?term=account&page=1&position=2&page=1&position=2&related_id=1144760&origin=search
+9. https://www.flaticon.com/free-icon/wallet_482541?term=wallet&page=1&position=2&page=1&position=2&related_id=482541&origin=search
+10. https://opensea.io/
+11. https://codepen.io/
+12. https://dlo.mijnhva.nl/d2l/home/324287
+
 
 </details>
